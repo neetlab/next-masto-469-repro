@@ -1,0 +1,17 @@
+{
+  "name": "masto-469-repro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "masto": "^4.1.10",
+    "next": "^11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-use": "^17.3.1"
+  }
+}
